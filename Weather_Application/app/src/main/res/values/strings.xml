@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather_Application</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="history_button">History</string>
+    <string name="map_button">Map</string>
+    <string name="update_button">Update</string>
+</resources>
